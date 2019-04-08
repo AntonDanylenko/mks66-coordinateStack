@@ -45,8 +45,12 @@ pop
 pop
 pop
 pop
+rotate
+y 45
+rotate
+x 45
 sphere
-0 0 0 200
+0 0 0 100
 
 save
 worm.png
