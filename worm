@@ -1,4 +1,6 @@
 push
+rotate
+x 20
 move
 100 0 100
 
