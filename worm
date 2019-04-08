@@ -4,7 +4,7 @@ x 90
 rotate
 z 20
 move
-100 175 100
+100 0 0
 
 torus
 0 0 0 5 0
