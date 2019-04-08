@@ -1,6 +1,8 @@
 push
 rotate
 y 45
+rotate
+x 75
 
 push
 move
@@ -16,7 +18,7 @@ move
 rotate
 y 5
 torus
-0 0 0 5 10
+0 0 0 5 20
 
 push
 move
@@ -24,7 +26,7 @@ move
 rotate
 y 5
 torus
-0 0 0 5 20
+0 0 0 5 40
 
 push
 move
@@ -32,7 +34,7 @@ move
 rotate
 y -5
 torus
-0 0 0 5 30
+0 0 0 5 60
 
 push
 move
@@ -42,7 +44,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 push
 move
@@ -52,7 +54,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 push
 move
@@ -62,7 +64,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 push
 move
@@ -72,7 +74,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 push
 move
@@ -82,7 +84,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 push
 move
@@ -92,7 +94,7 @@ y -5
 rotate
 x 5
 torus
-0 0 0 5 40
+0 0 0 5 80
 
 save
 worm.png
