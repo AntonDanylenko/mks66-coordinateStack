@@ -1,12 +1,6 @@
 push
 move
 100 175 100
-rotate
-x 90
-rotate
-y -30
-rotate
-z -30
 
 torus
 0 0 0 5 0
