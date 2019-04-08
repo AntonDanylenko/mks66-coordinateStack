@@ -1,10 +1,9 @@
-#HEAD
 push
 move
-0 175 0
+0 175 100
 rotate
 y 90
-sphere
-0 0 0 50
+torus
+0 0 0 50 60
 save
 worm.png
