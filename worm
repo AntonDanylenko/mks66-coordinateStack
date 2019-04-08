@@ -106,5 +106,11 @@ move
 0 20 -30
 torus
 0 0 0 5 40
+
+push
+sphere
+-10 10 0 10
+sphere
+10 10 0 10
 save
 worm.png
