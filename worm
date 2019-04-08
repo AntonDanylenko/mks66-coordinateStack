@@ -1,8 +1,6 @@
 push
 rotate
 y 45
-rotate
-x 45
 
 push
 move
