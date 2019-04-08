@@ -59,5 +59,28 @@ move
 torus
 0 0 0 5 40
 
+push
+move
+10 20 -10
+torus
+0 0 0 5 40
+
+push
+move
+20 20 -20
+torus
+0 0 0 5 40
+
+push
+move
+20 20 -20
+torus
+0 0 0 5 40
+
+push
+move
+20 20 -20
+torus
+0 0 0 5 40
 save
 worm.png
