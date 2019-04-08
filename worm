@@ -25,31 +25,31 @@ push
 move
 0 20 0
 torus
-0 0 0 5 30
+0 0 0 5 20
 
 push
 move
 0 20 0
 torus
-0 0 0 5 40
+0 0 0 5 30
 
 push
 move
 5 20 -5
 torus
-0 0 0 5 40
+0 0 0 5 30
 
 push
 move
 5 20 -5
 torus
-0 0 0 5 40
+0 0 0 5 30
 
 push
 move
 10 20 -10
 torus
-0 0 0 5 40
+0 0 0 5 30
 
 push
 move
