@@ -11,55 +11,25 @@ torus
 
 push
 move
-0 0 -10
+0 0 -20
 torus
 0 0 0 5 20
 
 push
 move
-0 2 -10
+0 2 -20
 torus
 0 0 0 5 40
 
 push
 move
-0 2 -10
+0 2 -20
 torus
 0 0 0 5 60
 
 push
 move
-0 0 -10
-torus
-0 0 0 5 80
-
-push
-move
-0 0 -10
-torus
-0 0 0 5 80
-
-push
-move
-0 0 -10
-torus
-0 0 0 5 80
-
-push
-move
-0 0 -10
-torus
-0 0 0 5 80
-
-push
-move
-0 2 -10
-torus
-0 0 0 5 80
-
-push
-move
-0 2 -10
+0 0 -20
 torus
 0 0 0 5 80
 
