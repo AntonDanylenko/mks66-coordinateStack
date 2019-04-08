@@ -39,5 +39,11 @@ rotate
 x 5
 torus
 0 0 0 5 20
+
+push
+rotate
+x 45
+rotate
+y 45
 save
 worm.png
