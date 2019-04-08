@@ -40,13 +40,13 @@ x 5
 torus
 0 0 0 5 20
 
-push
-rotate
-x 45
-rotate
-y 45
-torus
-0 0 0 1 1
+pop
+pop
+pop
+pop
+pop
+sphere
+0 0 0 200
 
 save
 worm.png
