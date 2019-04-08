@@ -79,31 +79,31 @@ torus
 
 push
 move
-10 20 -20
+0 20 -20
 torus
 0 0 0 5 40
 
 push
 move
-10 20 -30
+0 20 -30
 torus
 0 0 0 5 40
 
 push
 move
-10 20 -30
+0 20 -30
 torus
 0 0 0 5 40
 
 push
 move
-10 20 -30
+0 20 -30
 torus
 0 0 0 5 40
 
 push
 move
-10 20 -30
+0 20 -30
 torus
 0 0 0 5 40
 save
