@@ -1,9 +1,9 @@
 push
 move
-0 175 100
+100 175 0
 rotate
-y 90
+x 90
 torus
-0 0 0 10 60
+0 0 0 5 30
 save
 worm.png
