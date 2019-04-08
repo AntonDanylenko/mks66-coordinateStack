@@ -109,10 +109,8 @@ torus
 
 push
 sphere
-0 0 0 100
+-20 20 0 10
 sphere
--10 10 0 10
-sphere
-10 10 0 10
+20 20 0 10
 save
 worm.png
