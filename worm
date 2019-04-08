@@ -46,14 +46,55 @@ x 5
 torus
 0 0 0 5 20
 
-pop
-pop
-pop
-pop
-pop
-pop
-sphere
-0 0 0 100
+push
+move
+0 0 -10
+rotate
+y -5
+rotate
+x 5
+torus
+0 0 0 5 20
+
+push
+move
+0 0 -10
+rotate
+y -5
+rotate
+x 5
+torus
+0 0 0 5 20
+
+push
+move
+0 0 -10
+rotate
+y -5
+rotate
+x 5
+torus
+0 0 0 5 20
+
+push
+move
+0 0 -10
+rotate
+y -5
+rotate
+x 5
+torus
+0 0 0 5 20
+
+push
+move
+0 0 -10
+rotate
+y -5
+rotate
+x 5
+torus
+0 0 0 5 20
 
 save
 worm.png
