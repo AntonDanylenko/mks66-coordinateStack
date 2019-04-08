@@ -1,4 +1,10 @@
 push
+rotate
+y 45
+rotate
+x 45
+
+push
 move
 100 175 100
 rotate
@@ -45,10 +51,7 @@ pop
 pop
 pop
 pop
-rotate
-y 45
-rotate
-x 45
+pop
 sphere
 0 0 0 100
 
