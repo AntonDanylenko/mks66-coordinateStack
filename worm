@@ -1,6 +1,8 @@
 push
 rotate
-x 20
+x 90
+rotate
+y 20
 move
 100 0 100
 
@@ -105,8 +107,8 @@ torus
 
 push
 sphere
--20 10 40 15
+-20 10 -40 15
 sphere
-20 10 40 15
+20 10 -40 15
 save
 worm.png
